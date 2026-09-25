@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Shayan 👋
 
-<!--
-**ghambar96-commits/ghambar96-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer in Progress  
+🔐 Learning Cybersecurity  
+🐧 Exploring Linux
 
-Here are some ideas to get you started:
+## 🛠️ Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Linux
+- Cybersecurity
+- HTML / CSS / JavaScript
+
+## 🚀 Projects
+
+- 🛡️ SENTINEL — Security & system tools
+- 🤖 Telegram Bots
+- 🔧 Python experiments & utilities
+
+## 📚 Currently Building
+
+I'm learning by building real projects and experimenting with code.
+
+> Build. Break. Understand.
