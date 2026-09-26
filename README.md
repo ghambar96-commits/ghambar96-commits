@@ -1,71 +1,91 @@
 <div align="center">
 
-```
-system boot...
-> loading identity......... shayan
-> loading stack............ python
-> loading direction........ cybersecurity
-> status.................... in progress
-```
+# 👋 Hey, I'm Shayan
+
+### `Python` • `Cybersecurity` • `Linux`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=root%40shayan%3A~%24+whoami;learning+python...+building+things.;probing+systems...+asking+why.;still+compiling.+still+curious." alt="Typing SVG" />
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 </div>
 
-<br>
+---
 
-### Building things. Breaking things. Learning why.
+## 🧠 About Me
 
-That's not a tagline, it's roughly my weekly routine. I'm early in this — not pretending otherwise — but I'd rather ship something small and real than talk about something big and imagined.
+```text
+$ cat about.txt
 
-<br>
+Learning Python and Cybersecurity.
+Exploring Linux like it owes me an explanation.
+Building projects instead of just watching tutorials.
+Interested in security, automation, and whatever's
+running under the layer everyone else stops at.
 
-## `~/currently`
-
-```diff
-+ python        writing scripts that do actual work, not just exercises
-+ security      moving from "how do I break this" to "how do I stop it"
-- linux         comfortable enough to be dangerous, still learning why things fail
-- web           html / css / javascript, mostly to give my tools a face
+Not an expert. Not pretending to be.
+Just someone who'd rather break their own code
+than read about how someone else broke theirs.
 ```
 
-<br>
+## ⚡ Currently Learning
 
-## `~/projects`
+- 🐍 Python
+- 🐧 Linux
+- 🔐 Cybersecurity
+- 🌐 HTML / CSS / JavaScript
+- 🧩 Git & GitHub
+
+## 🚀 Currently Building
 
 **SENTINEL**
-A Python-based monitoring & security project. Not a proof-of-concept sitting untouched — something I keep coming back to and pushing further as I learn more.
+A Python-based system and security project — monitoring, analysis, and tooling built to actually be used, not just demoed once and abandoned.
 
 **Telegram Bots**
-Automation built on the Telegram Bot API. This is where APIs, edge cases, and "why did this break in production" first got real for me.
+Automation projects on the Telegram Bot API — where APIs stopped being a tutorial concept and started breaking in ways the docs never mention.
 
-<br>
+## 🎯 Currently Probing
 
-## `~/exploring`
-
-Poking at red teaming from both sides — how systems get broken, both classic infra/network stuff and the newer angle of attacking AI models themselves (prompt injection, jailbreaks). No formal path, just curiosity with a terminal open.
-
-<br>
-
-## `~/terminal`
-
-```bash
-$ whoami
-shayan
-
-$ cat status.log
-still early. still curious. still building.
-
-$ ./run.sh --mode=learn
-[ OK ] python
-[ OK ] linux
-[..]  cybersecurity
+```diff
++ Network / system red teaming — the classic kind
++ AI red teaming — prompt injection, jailbreaks, attacking models instead of servers
+! No course. No certificate. Just curiosity with a terminal open.
 ```
 
-<br>
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ghambar96-commits&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghambar96-commits&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ghambar96-commits&hide_border=true&theme=dark&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+
+</div>
 
 ---
 
 <div align="center">
 
-`process exited with intent`
+### `Build. Break. Understand.`
+
+<img src="https://komarev.com/ghpvc/?username=ghambar96-commits&style=for-the-badge&color=0D1117" alt="Profile views" />
+
+<br><br>
+
+<code>[ connection stays open — check back later ]</code>
 
 </div>
